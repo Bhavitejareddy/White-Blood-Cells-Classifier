@@ -70,6 +70,8 @@ ANN	|67%
 * **Enhance Feature Extraction**: Explore additional methods such as transfer learning and attention-based models.
 * **Expand Dataset: Incorporate** more diverse datasets to improve model generalizability.
 * **Real-World Application**: Implement user studies to evaluate the model's usability in clinical environments.
+## For More Details 
+[Download the PDF here](https://docs.google.com/document/d/1krJ3hxspWHM_Qm4x0UJd70a3FybMealv/edit?usp=sharing&ouid=109596835077990572925&rtpof=true&sd=true)
 
 
 
