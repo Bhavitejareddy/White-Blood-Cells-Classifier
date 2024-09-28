@@ -20,6 +20,9 @@ Leukemia is a type of blood cancer that is caused by the abnormal production of 
 We utilize Convolutional Neural Networks (CNN), Artificial Neural Networks (ANN), and ensemble techniques to classify WBCs from images.
 
 This repository contains code and resources for a 4-class classification task of white blood cells. The objective is to classify white blood cell images into four different classes based on their morphology.
+
+![image](https://github.com/user-attachments/assets/02e0f6ef-1610-4117-9e47-86c343f77106)
+
 ## Problem Statement
 
 Leukemia, a form of bone marrow disorder, is caused by the abnormal production of white blood cells. Accumulation of these cells restrains the production of healthy blood cells, potentially leading to anemia, infections, internal bleeding, and tumor formation. With different types of leukemia stemming from various kinds of WBCs, it is essential to accurately identify the type of WBC responsible to determine the right course of treatment.
