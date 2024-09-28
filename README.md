@@ -11,7 +11,7 @@ Video Demo: [📺 Watch the Video Demo](https://www.youtube.com/watch?v=1NqH9XWJ
 
 
 ## Publication:
-This project was published in EAI Endorsed Transactions on Pervasive Health and Technology. [Link](https://publications.eai.eu/index.php/phat/article/view/4852/28200
+This project was published in EAI Endorsed Transactions on Pervasive Health and Technology. [Link](https://www.researchgate.net/publication/377426875_White_Blood_Cells_Classification_using_CNN
 )
 ## Overview
 
