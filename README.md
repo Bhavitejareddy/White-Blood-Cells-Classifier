@@ -13,6 +13,9 @@ Video Demo: [📺 Watch the Video Demo](https://www.youtube.com/watch?v=1NqH9XWJ
 ## Publication:
 This project was published in EAI Endorsed Transactions on Pervasive Health and Technology. [Link](https://www.researchgate.net/publication/377426875_White_Blood_Cells_Classification_using_CNN
 )
+
+![image](https://github.com/user-attachments/assets/40d15bfa-95ee-4ed1-b028-0bba37375d35)
+
 ## Overview
 
 Leukemia is a type of blood cancer that is caused by the abnormal production of white blood cells (WBC). Proper diagnosis and treatment are critical, as leukemia is caused by different types of WBCs, and misdiagnosis can lead to severe complications for the patient. This project focuses on identifying the type of WBC causing leukemia using image classification techniques, leveraging deep learning models.
